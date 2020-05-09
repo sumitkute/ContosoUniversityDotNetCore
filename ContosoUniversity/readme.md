@@ -1,5 +1,4 @@
-# Contoso University sample app
-
+# Contoso University Demo App
 Contoso University demonstrates how to use Entity Framework Core in an
 ASP.NET Core MVC web application.
 
